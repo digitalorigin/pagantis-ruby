@@ -3,4 +3,16 @@ require 'pagantis/pagination'
 require 'pagantis/base_collection'
 require 'pagantis/base'
 require 'pagantis/errors'
+
+require 'pagantis/base_eager_loader'
+
+require 'pagantis/activity'
+require 'pagantis/card'
+require 'pagantis/refund'
+require 'pagantis/sale'
+
+require 'pagantis/charge'
+require 'pagantis/customer'
 require 'pagantis/plan'
+require 'pagantis/subscription'
+

@@ -1,4 +1,4 @@
 module Pagantis
-  class Plan
+  class Activity
   end
 end
