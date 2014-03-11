@@ -16,4 +16,6 @@ module Pagantis
   end
   class Subscription < Base
   end
+  class PaymentRequest < Base
+  end
 end
