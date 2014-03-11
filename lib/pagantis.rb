@@ -15,4 +15,5 @@ require 'pagantis/charge'
 require 'pagantis/customer'
 require 'pagantis/plan'
 require 'pagantis/subscription'
+require 'pagantis/payment_request'
 
