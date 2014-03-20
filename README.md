@@ -1,7 +1,7 @@
-Pagantis' ruby gem
+Pagantis ruby gem
 ======
 
-This is a Ruby wrapper for Pagantis' API.
+This is a Ruby wrapper for Pagantis API.
 
 
 Usage
@@ -13,7 +13,7 @@ First, you've to install the gem
     
 and require it
 
-    require "paymill"
+    require 'pagantis-ruby'
 
 
 or add it to your Gem file
@@ -22,7 +22,7 @@ or add it to your Gem file
 
 Then you have to set your API key:
 
-    Pagantis::Base.token = "your-api-token"
+    Pagantis::Base.token = 'your-api-token'
     
     
 
