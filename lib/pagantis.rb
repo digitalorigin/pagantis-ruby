@@ -10,7 +10,7 @@ require 'pagantis/activity'
 require 'pagantis/card'
 require 'pagantis/refund'
 require 'pagantis/sale'
-
+require 'pagantis/settlement'
 require 'pagantis/charge'
 require 'pagantis/customer'
 require 'pagantis/plan'

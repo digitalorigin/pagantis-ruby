@@ -6,5 +6,6 @@ module Pagantis
     has_one :sale, :class_name => 'pagantis/sale'
     has_many :activities, :class_name => 'pagantis/activity'
     has_many :refunds, :class_name => 'pagantis/refund'
+    has_one :settlement, :class_name => 'pagantis/settlement'
   end
 end
