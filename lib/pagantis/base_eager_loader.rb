@@ -18,4 +18,6 @@ module Pagantis
   end
   class PaymentRequest < Base
   end
+  class Settlement < Base
+  end
 end
