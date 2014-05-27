@@ -9,16 +9,16 @@ Usage
 
 First, you've to install the gem
 
-    gem install pagantis-ruby
+    gem install pagantis
     
 and require it
 
-    require 'pagantis-ruby'
+    require 'pagantis'
 
 
 or add it to your Gem file
 
-    gem 'pagantis-ruby'
+    gem 'pagantis'
 
 Then you have to set your API key:
 
@@ -35,7 +35,7 @@ Getting all existing plans in your account:
 
 Getting plan details
 
-   plan = Pagantis::Plan.find('pla_xxxxxxxxxx')
+    plan = Pagantis::Plan.find('pla_xxxxxxxxxx')
 
 
     
